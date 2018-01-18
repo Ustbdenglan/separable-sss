@@ -467,7 +467,8 @@ float4 SSSSBlurPS(
         // Accumulate:
         colorBlurred.rgb += kernel[i].rgb * color.rgb;
     }
-
+    return colorBlurred;
+    return colorBlurred;
     return colorBlurred;
 }
 
