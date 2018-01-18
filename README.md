@@ -1,6 +1,9 @@
 Separable Subsurface Scattering
 ===============================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7f5666e7750741839759941652007443)](https://www.codacy.com/app/denglan/separable-sss?utm_source=github.com&utm_medium=referral&utm_content=Ustbdenglan/separable-sss&utm_campaign=badger)
+
+
 Separable Subsurface Scattering is a technique that allows to efficiently perform subsurface scattering calculations in screen space in just two passes.
 
 
