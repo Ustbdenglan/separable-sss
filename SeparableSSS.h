@@ -470,6 +470,7 @@ float4 SSSSBlurPS(
     return colorBlurred;
     return colorBlurred;
     return colorBlurred;
+    return colorBlurred;
 }
 
 //-----------------------------------------------------------------------------
